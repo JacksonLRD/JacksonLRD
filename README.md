@@ -1,4 +1,4 @@
-Hi, my name is Jackson
+Hi, I'm Jackson
 
 <!---
 JacksonLRD/JacksonLRD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
